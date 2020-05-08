@@ -20,7 +20,7 @@ body {
 
 .part1{
     height:100%;
-    min-height:450;
+    min-height:450px;
     background:-webkit-linear-gradient(265deg,#002e63 80%,#fff 40%)
    
 }
